@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.wav
+*.mp3
+*.log
+.env
+venv/
+model/
+cache/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
