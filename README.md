@@ -73,4 +73,4 @@ Jarvis AI Lite/
 │   ├── speak.py
 │   └── cleanup.py
 │── data/
-│── requirements.txt
+
